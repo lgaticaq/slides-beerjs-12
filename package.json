@@ -1,0 +1,26 @@
+{
+  "name": "slides-beerjs-12",
+  "version": "1.0.0",
+  "description": "Introducción al flujo es6 + babel + eslint + Webpack + npm scripts",
+  "main": "index.js",
+  "scripts": {
+    "build": "cleaver index.md",
+    "build:watch": "watch 'npm run build' .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lgaticaq/slides-beerjs-12.git"
+  },
+  "keywords": [],
+  "author": "Leonardo Gatica <lgatica@protonmail.com> (https://about.me/lgatica)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lgaticaq/slides-beerjs-12/issues"
+  },
+  "homepage": "https://github.com/lgaticaq/slides-beerjs-12#readme",
+  "devDependencies": {
+    "cleaver": "^0.8.2",
+    "watch": "^0.17.1"
+  }
+}

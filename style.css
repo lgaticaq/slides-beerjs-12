@@ -1,0 +1,34 @@
+body {
+  color: #000;
+}
+
+h1, h3 {
+  font-family: Impact;
+  font-weight: bold;
+}
+
+pre code {
+  color: #000;
+  font-size: 140%;
+}
+
+.slide {
+  background-image: url("http://bgfons.com/upload/beer_texture1956.jpg");
+}
+
+.keyword {
+  color: #0086b3 !important;
+  font-weight: inherit !important;
+}
+
+.tag {
+  color: #900 !important;
+}
+
+code {
+  background-color: inherit;
+}
+
+em {
+  border-bottom: 1px solid #666;
+}
