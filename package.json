@@ -21,6 +21,6 @@
   "homepage": "https://github.com/lgaticaq/slides-beerjs-12#readme",
   "devDependencies": {
     "cleaver": "^0.8.2",
-    "watch": "^0.17.1"
+    "watch": "^1.0.1"
   }
 }
